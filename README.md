@@ -118,3 +118,14 @@ A integração da IA no cotidiano organizacional focará em ferramentas de auxí
 Considerações Finais
 
 A Inteligência Artificial deve ser compreendida como uma extensão da capacidade humana, e não sua substituta. O sucesso da transformação digital depende do equilíbrio entre a automação da lógica e a preservação da subjetividade humana. O aprendizado contínuo (lifelong learning) e a governança ética são os pilares que garantirão que essa tecnologia seja uma força para o progresso sustentável e inclusivo da sociedade.
+
+* Curadoria de Fontes:
+Para este estudo, foram selecionadas as seguintes fontes abertas que oferecem visões complementares (técnica, mercadológica e acadêmica):
+Gupy: "IA no Mercado de Trabalho: impactos e tendências para 2025" – Foco em RH, empregabilidade e produtividade
+.
+InfoMoney: "Inteligência artificial (IA): o que é, tipos, como funciona e exemplos práticos" – Guia didático sobre classificações e uso cotidiano
+.
+Google Cloud: "O que é inteligência artificial (IA)?" – Visão técnica sobre Machine Learning, Deep Learning e IA Generativa
+.
+DIO (Jacivaldo Carvalho): "Inteligência Artificial (IA) e o Impacto no mundo atual" – Análise de setores específicos como saúde, finanças e transporte
+.
